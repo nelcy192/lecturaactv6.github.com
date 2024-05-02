@@ -1,0 +1,44 @@
+{
+  "title": "comprensión intertextual",
+  "date": "2/5/24",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "comprension_intertextual.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 18,
+  "totalSize": 2242438,
+  "files": [
+    "abue_pin.png",
+    "anamorao.png",
+    "arroz.png",
+    "canta.png",
+    "cisne.png",
+    "comprension_intertextual.jclic",
+    "comprension_intertextual.jclic.js",
+    "favicon.ico",
+    "grillo....png",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "juan_chun.png",
+    "llop.png",
+    "patis.png",
+    "pato.png",
+    "patos.png",
+    "pavos.png",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "raton.png"
+  ]
+}
